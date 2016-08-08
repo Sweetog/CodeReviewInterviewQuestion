@@ -1,0 +1,6 @@
+bin/
+obj/
+*.suo
+*.pubxml.user
+*.user
+packages
