@@ -1,0 +1,4 @@
+F:\Projects\Sandbox\ConsoleAppBMSInteviewQuestion\Common\bin\Debug\Common.dll
+F:\Projects\Sandbox\ConsoleAppBMSInteviewQuestion\Common\bin\Debug\Common.pdb
+F:\Projects\Sandbox\ConsoleAppBMSInteviewQuestion\Common\obj\Debug\Common.dll
+F:\Projects\Sandbox\ConsoleAppBMSInteviewQuestion\Common\obj\Debug\Common.pdb

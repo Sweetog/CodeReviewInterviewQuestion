@@ -1,0 +1,7 @@
+F:\Projects\Sandbox\ConsoleAppBMSInteviewQuestion\AppDto\bin\Debug\AppDto.dll
+F:\Projects\Sandbox\ConsoleAppBMSInteviewQuestion\AppDto\bin\Debug\AppDto.pdb
+F:\Projects\Sandbox\ConsoleAppBMSInteviewQuestion\AppDto\bin\Debug\DataModels.dll
+F:\Projects\Sandbox\ConsoleAppBMSInteviewQuestion\AppDto\bin\Debug\DataModels.pdb
+F:\Projects\Sandbox\ConsoleAppBMSInteviewQuestion\AppDto\obj\Debug\AppDto.csprojResolveAssemblyReference.cache
+F:\Projects\Sandbox\ConsoleAppBMSInteviewQuestion\AppDto\obj\Debug\AppDto.dll
+F:\Projects\Sandbox\ConsoleAppBMSInteviewQuestion\AppDto\obj\Debug\AppDto.pdb
